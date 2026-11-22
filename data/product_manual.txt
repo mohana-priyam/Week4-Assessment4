@@ -1,0 +1,30 @@
+
+SMARTAIR X1 - PRODUCT MANUAL
+
+1. Product Overview
+SmartAir X1 is a home air purifier designed to improve indoor air quality.
+It includes a HEPA filter, three fan speeds, and an automatic mode.
+
+2. Power Information
+The device operates at 220 volts.
+Its rated power consumption is 45 watts.
+
+3. Operating Instructions
+Connect the power cable and press the power button.
+Press the speed button to select low, medium, or high fan speed.
+Select automatic mode to adjust fan speed automatically.
+
+4. Filter Maintenance
+Check the filter every three months.
+Replace the HEPA filter every six months.
+Turn off and unplug the device before replacing the filter.
+
+5. Troubleshooting
+If the device does not start, check the power connection.
+If airflow is weak, inspect the filter and replace it if necessary.
+If the device makes unusual noise, check whether the filter is installed correctly.
+
+6. Safety Instructions
+Keep the device away from water.
+Do not block the air inlet or outlet.
+Unplug the device before cleaning.
