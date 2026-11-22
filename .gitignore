@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -221,3 +222,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+
+data/*.db
+data/*.db-*
+data/*.backup
+>>>>>>> 4dd3dd5 (Add gitignore for database files)
+# RAG database and backup files
+data/*.db
+data/*.db-*
+data/*.backup
